@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+ ![Snake animation](https://github.com/lucasmick1/lucasmick1/blob/output/github-contribution-grid-snake.svg)
 <!--
 **Lucasmick1/lucasmick1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
